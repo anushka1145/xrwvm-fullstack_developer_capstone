@@ -5,6 +5,7 @@ This repository contains the Capstone Project for the IBM Full Stack Software De
 **Project Details**
 
 Project Name: Dealership Review & Management System
+Repository Name: car-dealership-capstone
 
 **Key Features**
 User Authentication: Secure Sign-up and Login system built using Django and React.
