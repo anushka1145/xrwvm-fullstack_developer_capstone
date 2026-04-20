@@ -4,7 +4,7 @@ This repository contains the Capstone Project for the IBM Full Stack Software De
 
 **Project Details**
 
-Project Name: Dealership Review & Management System
+Project Name: fullstack_developer_capstone
 Repository Name: car-dealership-capstone
 
 **Key Features**
