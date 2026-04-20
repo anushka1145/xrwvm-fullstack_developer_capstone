@@ -5,8 +5,7 @@ This repository contains the Capstone Project for the IBM Full Stack Software De
 **Project Details**
 
 Project Name: fullstack_developer_capstone
-Repository Name: car-dealership-capstone
-
+Repository Name: xrwvm-fullstack_developer_capstone
 **Key Features**
 User Authentication: Secure Sign-up and Login system built using Django and React.
 
